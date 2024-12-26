@@ -93,7 +93,7 @@ Task deleted successfully!
 ## Future Enhancements
 - Add file-based persistence to save tasks across sessions.
 - Implement a user-friendly GUI.
-- Allow filtering tasks based on their status (done/not done).
+- Allow filtering tasks based on their status (not done).
 
 ---
 
