@@ -23,20 +23,23 @@ This is a simple command-line To-Do List application built using C++. It allows 
 ## How to Use
 ### 1. Clone the Repository
 ```
-git clone <repository-url>
-cd todo-list-app
+git clone https://github.com/Iftikha/To-Do-List
+cd To-Do-List
+
 ```
 
 ### 2. Compile the Code
 Use a C++ compiler to build the application:
 ```
-g++ -o todo todo.cpp
+g++ -o main main.cpp
+
 ```
 
 ### 3. Run the Application
 Run the compiled program:
 ```
-./todo
+./main
+
 ```
 
 ### 4. Use the Menu
